@@ -1,5 +1,5 @@
 ## Web applications
-*built using http protoca
+* built using http protoca
   * http clients - 
     * figure out how to build a web req
   * http servers (browser, or programming language - 
@@ -24,7 +24,7 @@
   * request objects
 
 ## Skeleton
-*config.ru file 
+* config.ru file 
   * requires environment.rb
     * reqs gems (uri, pathname, active_record, logger, sinatra, sinatra reloader, erb)
     * set constants
