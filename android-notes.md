@@ -5,6 +5,7 @@
 
 ### views
 * ViewGroups / layouts(check terms)
+  * nested viewgroups will get increasingly more taxing/expensive
   * `LinearLayout` - children arranged in a vertical column or horizontal row
     * attributes
       * orientation
